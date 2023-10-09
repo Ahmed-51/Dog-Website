@@ -1,0 +1,208 @@
+body{
+  font-family:'Montserrat', sans-serif;
+  text-align: center;
+}
+
+#title{
+  background-color: #ff4c68;
+}
+
+.text{
+  font-family:'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: white;
+}
+
+.goleft{
+    text-align: left;
+}
+
+.container-fluid{
+  padding: 1% 15%;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-left: 0;
+}
+
+.navbar{
+  padding-left: 0;
+}
+
+.nav-item{
+  font-family:'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size: 1.2rem;
+  margin-left: 20px;
+}
+
+.butt{
+  margin-right: 18px;
+}
+
+.top-img{
+  width: 60%;
+  height: 95%;
+  position: relative;
+  left: 60px;
+  transform: rotate(18deg);
+}
+
+
+
+/* features section */
+
+.text-below{
+  color: #8f8f8f;
+  font-size: 18px;
+  width: 75%;
+  margin:auto;
+}
+
+.icon-text{
+  font-family:'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.des{
+  font-size: 80px;
+  color: #ef8172;
+}
+
+.des:hover{
+  color: #ff4c68;
+}
+
+
+/* testimonials */
+
+#testimonials{
+  background-color: #ff4c68;
+  color: white;
+}
+
+.dog-text{
+  font-family:'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.dog-img{
+    width: 13%;
+    border-radius: 100%;
+    margin-right: 20px;
+}
+
+.client{
+  width: 20%;
+  margin-right: 45px;
+}
+
+
+.carousel-item{
+  padding: 1% 15%;
+}
+
+
+#pricing{
+  padding: 5% 10%;
+}
+
+.card-img-top{
+  height: 250px;
+}
+
+.card-price{
+  font-family:'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.card-text{
+  font-size: 20px;
+  color: white;
+}
+
+.card-body{
+  background-color: #ff4c68;
+}
+
+.mini{
+  color: #8f8f8f;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+#cta{
+  background-color:#ff4c68;
+  padding: 5% 20%;
+}
+
+.text2{
+  font-family:'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: 600;
+  color: white;
+}
+
+#footer{
+  padding: 2% 15%;
+}
+
+.icons{
+  margin-right: 10px;
+}
+
+.copyright{
+  color: #8f8f8f;
+  font-size: 16px;
+  margin-top: 5px;
+
+}
+/* ex.html starts */
+
+#b{
+color: green;
+}
+
+h1{
+ color: red;
+}
+
+.a{
+color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* End of the Stylesheet */
